@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naman Goyal</h1>
 <h3 align="center">A passionate frontend developer and code enthusiast from India</h3>
-<img align="right" width="400" alt="coding" src="https://www.dreamstime.com/man-programmer-working-computer-code-screen-illustration-writing-pc-testing-ui-ux-guy-laptop-image115509734">
+<img align="right" width="400" alt="coding" src="https://as2.ftcdn.net/v2/jpg/01/35/92/85/1000_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namangoyal255&label=Profile%20views&color=0e75b6&style=flat" alt="namangoyal255" /> </p>
 
 - 🌱 I’m currently learning **React.js**
